@@ -21,4 +21,5 @@ $.ensureVisible(selector, options);
 ## Credits
 
 @oskolsky — Senior Frontend Developer
+
 @brainsapiens — Senior Frontend Developer
