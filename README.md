@@ -1,8 +1,7 @@
 jQuery extensions plugin
 ====================
 
-Extensions methods:
--------------------------------
+## Extensions methods:
 
 ##### Resize to max-width/height
 ```javascript
@@ -19,7 +18,7 @@ var heightsMap = $(el).heightsMap();
 $.ensureVisible(selector, options);
 ```
 
-Credits
--------------------------------
-*@oskolsky — Senior Frontend Developer
-*@brainsapiens — Senior Frontend Developer
+## Credits
+
+* @oskolsky — Senior Frontend Developer
+* @brainsapiens — Senior Frontend Developer
